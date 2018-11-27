@@ -6,7 +6,7 @@
 
 # Usage
 
-`wget https://github.com/madlifer/btpanelv6.1_crack/releases/download/1/crack.sh && bash crack.sh`
+`wget https://github.com/guiyingwl/gy_bt_crack.sh/blob/master/crack.sh && bash crack.sh`
 
 
 # QQ group
